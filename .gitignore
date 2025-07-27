@@ -1,0 +1,7 @@
+*.pkl
+*.pickle
+*.h5
+mnist_train.csv
+mnist_test.csv
+myenv/
+__pycache__/
