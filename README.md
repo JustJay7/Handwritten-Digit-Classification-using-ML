@@ -24,7 +24,7 @@ TensorFlow/Keras (ANN)
 NumPy, Matplotlib  
 
 **Dataset:**  
-TensorFlow’s built-in MNIST dataset (28x28 grayscale images). There is no need to download the dataset, however, if you are curious what it looks like, you may download the dataset [here](https://www.kaggle.com/datasets/oddrationale/mnist-in-csv).
+TensorFlow’s built-in MNIST dataset (28x28 grayscale images). There is no need to download the dataset, however, if you are curious to see what it looks like, you may download the dataset [here](https://www.kaggle.com/datasets/oddrationale/mnist-in-csv).
 
 ---
 
